@@ -12,7 +12,7 @@
 		<spring:message code="common.homeWelcome2"/>
 	</h1>
 	<p>
-		${serverTime} 11
+		${serverTime}
 	</p>
 	
 </body>
